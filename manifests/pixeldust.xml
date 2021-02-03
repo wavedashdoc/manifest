@@ -24,7 +24,7 @@
            revision="refs/heads/ten_ls" />
 
   <!-- Manifest -->
-  <project path="manifest" name="manifest" remote="pdx" />
+  <project path="manifest" name="manifest" remote="wdd" />
 
   <!-- Native -->
   <project path="art" name="android_art" remote="pdx" />
