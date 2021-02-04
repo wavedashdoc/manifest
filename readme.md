@@ -1,4 +1,4 @@
-# PixelDust Project X # PixelDust Project X # (Unofficial Life Support) LS
+# PixelDust Project X (Unofficial Life Support R3) LS3
 
 ## Setting up your machine ##
 
