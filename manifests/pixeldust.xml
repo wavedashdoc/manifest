@@ -118,7 +118,7 @@
 
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="pdx" />
-  <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="pdx" >
+  <project path="vendor/pixeldust" name="android_vendor_pixeldust" remote="wdd" >
     <copyfile src="build.sh" dest="rom-build.sh" />
   </project>
   <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="pdx" />
