@@ -1,4 +1,4 @@
-# PixelDust Project X #
+# PixelDust Project X # PixelDust Project X # (Unofficial Life Support) LS
 
 ## Setting up your machine ##
 
@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/pixeldust-project-x/manifest -b ten
+$ repo init -u https://github.com/wavedashdoc/manifest -b ten_ls3
 ```
 
 ### Downloading the source tree ###
