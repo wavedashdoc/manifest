@@ -130,7 +130,7 @@
   <project path="vendor/themes" name="android_vendor_themes" remote="pdx" />
 
   <!-- Prebuilts -->
-  <project path="prebuilts/clang/host/linux-x86/clang-latest" name="Clang-11.x" remote="pdd" clone-depth="1" revision="master" />
+  <project path="prebuilts/clang/host/linux-x86/clang-latest" name="Clang-11.x" remote="wdd" clone-depth="1" revision="master" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="pdx" />
 
   <!-- Pixel Gapps -->
