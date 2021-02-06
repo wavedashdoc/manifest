@@ -53,7 +53,7 @@
   <project path="device/pixeldust/sepolicy" name="android_device_pixeldust_sepolicy" remote="pdx" />
 
   <!-- External -->
-  <project path="external/aac" name="android/external/aac" groups="wdd" />
+  <project path="external/aac" name="android_external_aac" remote="wdd" />
   <project path="external/airbnb-lottie" name="android_external_airbnb-lottie" remote="pdx" />
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="pdx" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="pdx" />
