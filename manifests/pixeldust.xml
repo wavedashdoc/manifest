@@ -50,7 +50,7 @@
   </project>
 
   <!-- Device -->
-  <project path="device/pixeldust/sepolicy" name="android_device_pixeldust_sepolicy" remote="pdx" />
+  <project path="device/pixeldust/sepolicy" name="android_device_pixeldust_sepolicy" remote="wdd" />
 
   <!-- External -->
   <project path="external/aac" name="android_external_aac" remote="wdd" />
@@ -58,7 +58,7 @@
   <project path="external/asus/stitchimage" name="android_external_asus_stitchimage" remote="pdx" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="pdx" />
   <project path="external/google" name="android_external_google" remote="pdx" />
-  <project path="external/gptfdisk" name="android_external_gptfdisk" remote="pdx" />
+  <project path="external/gptfdisk" name="android_external_gptfdisk" remote="wdd" />
   <project path="external/libbfqio" name="android_external_libbfqio" remote="pdx" />
   <project path="external/libexif" name="android_external_libexif" remote="wdd" />
   <project path="external/okhttp" name="android_external_okhttp" remote="wdd" />
@@ -69,13 +69,13 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="wdd" />
 
   <!-- Frameworks -->
-  <project path="frameworks/av" name="android_frameworks_av" remote="pdx" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="pdx" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="wdd" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="wdd" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" remote="wdd" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdx" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="pdx" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="wdd" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="pdx" />
-  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="pdx" />
+  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="wdd" />
   <project path="frameworks/opt/slimrecent" name="android_frameworks_opt_slimrecent" remote="pdx" /> 
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="wdd" /> 
 
@@ -112,14 +112,14 @@
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="pdx" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="pdx" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="pdx" />
-  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="pdx" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="wdd" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="wdd" />
 
   <!-- System -->
   <project path="system/bt" name="android_system_bt" remote="wdd" />
   <project path="system/core" name="android_system_core" remote="wdd" />
   <project path="system/extras" name="android_system_extras" remote="pdx" />
-  <project path="system/netd" name="android_system_netd" remote="pdx" />
+  <project path="system/netd" name="android_system_netd" remote="wdd" />
   <project path="system/nfc" name="android_system_nfc" remote="wdd" />
   <project path="system/update_engine" name="android_system_update_engine" remote="pdx" />
   <project path="system/security" name="android_system_security" remote="wdd" />
