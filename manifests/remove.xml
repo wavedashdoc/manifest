@@ -54,6 +54,8 @@
   <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/libaom" />
+  <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/perfetto" />
