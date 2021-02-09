@@ -71,7 +71,7 @@
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="wdd" />
 
   <!-- Frameworks -->
-  <project path="frameworks/av" name="android_frameworks_av" remote="wdd" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="wdd" revision="ten_ls3_2" />
   <project path="frameworks/base" name="android_frameworks_base" remote="wdd" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" remote="wdd" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdx" />
@@ -119,7 +119,7 @@
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="wdd" />
 
   <!-- System -->
-  <project path="system/bt" name="android_system_bt" remote="wdd" />
+  <project path="system/bt" name="android_system_bt" remote="wdd" revision="ten_ls3_2" />
   <project path="system/core" name="android_system_core" remote="wdd" />
   <project path="system/extras" name="android_system_extras" remote="pdx" />
   <project path="system/netd" name="android_system_netd" remote="wdd" />
