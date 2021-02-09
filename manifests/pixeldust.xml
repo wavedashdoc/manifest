@@ -119,7 +119,7 @@
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="wdd" />
 
   <!-- System -->
-  <project path="system/bt" name="android_system_bt" remote="wdd" revision="ten_ls3_2" />
+  <project path="system/bt" name="android_system_bt" remote="wdd" />
   <project path="system/core" name="android_system_core" remote="wdd" />
   <project path="system/extras" name="android_system_extras" remote="pdx" />
   <project path="system/netd" name="android_system_netd" remote="wdd" />
