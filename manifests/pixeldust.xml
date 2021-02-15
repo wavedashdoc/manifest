@@ -72,7 +72,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="wdd" revision="ten_ls3_2" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="wdd" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="wdd" revision="ten_ls4" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" remote="wdd" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="pdx" />
   <project path="frameworks/native" name="android_frameworks_native" remote="wdd" />
