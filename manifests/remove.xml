@@ -53,6 +53,7 @@
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/dnsmasq" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libaom" />
   <remove-project name="platform/external/libavc" />
@@ -62,6 +63,7 @@
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/v8" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
@@ -123,8 +125,10 @@
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
   <remove-project name="platform/prebuilts/r8" />
   <remove-project name="platform/system/bt" />
+  <remove-project name="platform/system/connectivity/wificond" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
+  <remove-project name="platform/system/libhidl" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/nfc" />
   <remove-project name="platform/system/security" />
