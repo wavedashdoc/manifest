@@ -27,7 +27,7 @@
   <project path="manifest" name="manifest" remote="wdd" />
 
   <!-- Native -->
-  <project path="art" name="android_art" remote="pdx" />
+  <project path="art" name="android_art" remote="wdd" />
   <project path="bionic" name="android_bionic" remote="pdx" />
 
   <!-- Recovery -->
