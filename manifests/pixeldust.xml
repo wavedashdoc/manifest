@@ -116,6 +116,7 @@
   <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="pdx" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="pdx" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="pdx" />
+  <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="wdd" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="pdx" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="pdx" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="wdd" />
